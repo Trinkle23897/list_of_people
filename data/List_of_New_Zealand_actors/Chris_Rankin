@@ -1,0 +1,31 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Chris Rankin
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1983-11-08
+    </span>
+    )
+   </span>
+   8 November 1983
+   <span class="noprint ForceAgeToShow">
+    (age 33)
+   </span>
+   <br/>
+   <span class="birthplace">
+    Auckland, New Zealand
+   </span>
+  </td>
+ </tr>
+</table>

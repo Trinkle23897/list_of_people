@@ -1,0 +1,279 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Robin Milner
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span class="nickname">
+    Arthur John Robin Gorell Milner
+   </span>
+   <br/>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1934-01-13
+    </span>
+    )
+   </span>
+   13 January 1934
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/Yealmpton" title="Yealmpton">
+     Yealmpton
+    </a>
+    ,
+    <a href="/wiki/Plymouth" title="Plymouth">
+     Plymouth
+    </a>
+    ,
+    <a href="/wiki/England" title="England">
+     England
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Died
+  </th>
+  <td>
+   20 March 2010
+   <span style="display:none">
+    (
+    <span class="dday deathdate">
+     2010-03-20
+    </span>
+    )
+   </span>
+   (aged 76)
+   <br/>
+   <span class="deathplace">
+    <a href="/wiki/Cambridge" title="Cambridge">
+     Cambridge
+    </a>
+    ,
+    <a href="/wiki/England" title="England">
+     England
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a class="mw-redirect" href="/wiki/LCF_theorem_prover" title="LCF theorem prover">
+       LCF
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/ML_programming_language" title="ML programming language">
+       ML
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Calculus_of_communicating_systems" title="Calculus of communicating systems">
+       Calculus of communicating systems
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Pi-calculus" title="Pi-calculus">
+       Pi-calculus
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Type_inference#Hindley.E2.80.93Milner_type_inference_algorithm" title="Type inference">
+       Hindley-Milner type inference
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a class="mw-redirect" href="/wiki/ACM_Turing_Award" title="ACM Turing Award">
+       Turing Award
+      </a>
+      (1991)
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">
+       FRS
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Royal_Society_of_Edinburgh" title="Royal Society of Edinburgh">
+       FRSE
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <a href="/wiki/Computer_science" title="Computer science">
+    Computer science
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Ferranti" title="Ferranti">
+       Ferranti
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/City_University,_London" title="City University, London">
+       City University, London
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Swansea_University" title="Swansea University">
+       Swansea University
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Stanford_University" title="Stanford University">
+       Stanford University
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">
+       University of Edinburgh
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/University_of_Cambridge" title="University of Cambridge">
+       University of Cambridge
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Aarhus_University" title="Aarhus University">
+       Aarhus University
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   None, as Milner never did a PhD
+   <sup class="reference" id="cite_ref-2">
+    <a href="#cite_note-2">
+     [2]
+    </a>
+   </sup>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   George Milne
+   <br/>
+   Avra Cohn
+   <br/>
+   Raymond Aubin
+   <br/>
+   Mike Sanderson
+   <br/>
+   <a href="/wiki/Alan_Mycroft" title="Alan Mycroft">
+    Alan Mycroft
+   </a>
+   <br/>
+   Luis Damas
+   <br/>
+   Brian Monahan
+   <br/>
+   Kevin Mitchell
+   <br/>
+   Kim Larsen (1986)
+   <br/>
+   <a href="/wiki/Mads_Tofte" title="Mads Tofte">
+    Mads Tofte
+   </a>
+   (1988)
+   <br/>
+   K.V.S. Prasad (1989)
+   <br/>
+   <a href="/wiki/Faron_Moller" title="Faron Moller">
+    Faron Moller
+   </a>
+   <br/>
+   Dave Berry
+   <br/>
+   <a href="/wiki/Chris_Tofts" title="Chris Tofts">
+    Chris Tofts
+   </a>
+   <br/>
+   Peter Sewell
+   <br/>
+   <a href="/wiki/Davide_Sangiorgi" title="Davide Sangiorgi">
+    Davide Sangiorgi
+   </a>
+   (1993)
+   <br/>
+   David N. Turner (1995)
+   <br/>
+   Alex Mifsud
+   <br/>
+   James J. Leifer (2001)
+   <sup class="reference" id="cite_ref-mathgene_3-0">
+    <a href="#cite_note-mathgene-3">
+     [3]
+    </a>
+   </sup>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

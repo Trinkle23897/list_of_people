@@ -1,0 +1,48 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Stanley Arthur Franklin
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1930-10-30
+    </span>
+    )
+   </span>
+   October 30, 1930
+   <br/>
+   <span class="birthplace">
+    Bow, London, England
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Died
+  </th>
+  <td>
+   February 2, 2004
+   <span style="display:none">
+    (
+    <span class="dday deathdate">
+     2004-02-02
+    </span>
+    )
+   </span>
+   (aged 73)
+   <br/>
+   <span class="deathplace">
+    Kingston-upon-Thames, England
+   </span>
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,348 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Michael I. Jordan
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Michael_I_Jordan.png">
+    <img alt="Michael I Jordan.png" data-file-height="156" data-file-width="115" height="156" src="//upload.wikimedia.org/wikipedia/commons/d/de/Michael_I_Jordan.png" width="115"/>
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1956-02-25
+    </span>
+    )
+   </span>
+   February 25, 1956
+   <span class="noprint ForceAgeToShow">
+    (age 61)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Residence
+  </th>
+  <td class="label">
+   Berkeley, CA
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   University of California, San Diego
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a href="/wiki/Latent_Dirichlet_allocation" title="Latent Dirichlet allocation">
+    Latent Dirichlet allocation
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   Fellow of the U.S.
+   <a href="/wiki/National_Academy_of_Sciences" title="National Academy of Sciences">
+    National Academy of Sciences
+   </a>
+   <sup class="reference" id="cite_ref-pnas_1-0">
+    <a href="#cite_note-pnas-1">
+     [1]
+    </a>
+   </sup>
+   <br/>
+   <a class="mw-redirect" href="/wiki/AAAI" title="AAAI">
+    AAAI
+   </a>
+   Fellow (2002)
+   <br/>
+   <a href="/wiki/Rumelhart_Prize" title="Rumelhart Prize">
+    Rumelhart Prize
+   </a>
+   (2015)
+   <sup class="reference" id="cite_ref-2">
+    <a href="#cite_note-2">
+     [2]
+    </a>
+   </sup>
+   <br/>
+   <a href="/wiki/IJCAI_Award_for_Research_Excellence" title="IJCAI Award for Research Excellence">
+    IJCAI Award for Research Excellence
+   </a>
+   (2016)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Website
+  </th>
+  <td>
+   <span class="url">
+    <a class="external text" href="http://www.cs.berkeley.edu/~jordan" rel="nofollow">
+     www
+     <wbr>
+     </wbr>
+     .cs
+     <wbr>
+     </wbr>
+     .berkeley
+     <wbr>
+     </wbr>
+     .edu
+     <wbr>
+     </wbr>
+     /~jordan
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">
+    University of California, Berkeley
+   </a>
+   <br/>
+   <a href="/wiki/University_of_California,_San_Diego" title="University of California, San Diego">
+    University of California, San Diego
+   </a>
+   <br/>
+   <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">
+    Massachusetts Institute of Technology
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Thesis" title="Thesis">
+    Thesis
+   </a>
+  </th>
+  <td>
+   <i>
+    The Learning of Representations for Sequential Performance
+   </i>
+   <span style="font-size:90%;">
+    (1985)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <a href="/wiki/David_Rumelhart" title="David Rumelhart">
+    David Rumelhart
+   </a>
+   <br/>
+   <a class="mw-redirect" href="/wiki/Donald_Norman" title="Donald Norman">
+    Donald Norman
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      Robert Jacobs
+     </li>
+     <li>
+      Wey Fun
+     </li>
+     <li>
+      <a href="/wiki/Zoubin_Ghahramani" title="Zoubin Ghahramani">
+       Zoubin Ghahramani
+      </a>
+     </li>
+     <li>
+      Eric Loeb
+     </li>
+     <li>
+      Philip Sabes
+     </li>
+     <li>
+      John Houde
+     </li>
+     <li>
+      Tommi Jaakkola
+     </li>
+     <li>
+      Marina Meila
+     </li>
+     <li>
+      <a href="/wiki/Emanuel_Todorov" title="Emanuel Todorov">
+       Emanuel Todorov
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Andrew_Ng" title="Andrew Ng">
+       Andrew Ng
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Eric_Xing" title="Eric Xing">
+       Eric Xing
+      </a>
+     </li>
+     <li>
+      Francis Bach
+     </li>
+     <li>
+      <a href="/wiki/David_Blei" title="David Blei">
+       David Blei
+      </a>
+     </li>
+     <li>
+      Gert Lanckriet
+     </li>
+     <li>
+      Jon McAuliffe
+     </li>
+     <li>
+      Brian Vogel
+     </li>
+     <li>
+      Alice Zheng
+     </li>
+     <li>
+      Patrick Flaherty
+     </li>
+     <li>
+      Barbara Engelhardt
+     </li>
+     <li>
+      XuanLong Nguyen
+     </li>
+     <li>
+      Romain Thibaux
+     </li>
+     <li>
+      Ben Blum
+     </li>
+     <li>
+      Simon Lacoste-Julien
+     </li>
+     <li>
+      Guillaume Obozinski
+     </li>
+     <li>
+      Alexandre Bouchard-Cote
+     </li>
+     <li>
+      Sriram Sankararaman
+     </li>
+     <li>
+      Aleksandr Simma
+     </li>
+     <li>
+      Junming Yin
+     </li>
+     <li>
+      Lester Mackey
+     </li>
+     <li>
+      Tamara Broderick
+     </li>
+     <li>
+      <a href="/wiki/Daniel_Wolpert" title="Daniel Wolpert">
+       Daniel Wolpert
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Other notable students
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      Lawrence Saul (
+      <a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">
+       postdoc
+      </a>
+      )
+     </li>
+     <li>
+      Martin Wainwright (
+      <a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">
+       postdoc
+      </a>
+      )
+     </li>
+     <li>
+      Yee Whye Teh (
+      <a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">
+       postdoc
+      </a>
+      )
+     </li>
+     <li>
+      <a href="/wiki/Ben_Taskar" title="Ben Taskar">
+       Ben Taskar
+      </a>
+      (
+      <a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">
+       postdoc
+      </a>
+      )
+     </li>
+     <li>
+      <a href="/wiki/Yoshua_Bengio" title="Yoshua Bengio">
+       Yoshua Bengio
+      </a>
+      (
+      <a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">
+       postdoc
+      </a>
+      )
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,93 @@
+<table class="infobox vcard" style="width:22em">
+ <caption class="fn org">
+  Punknews.org
+ </caption>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <div class="center">
+    <div class="floatnone">
+     <a class="image" href="/wiki/File:Punknewsorg_weblogo2009.png">
+      <img alt="Punknewsorg weblogo2009.png" data-file-height="59" data-file-width="307" height="44" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0b/Punknewsorg_weblogo2009.png/228px-Punknewsorg_weblogo2009.png" srcset="//upload.wikimedia.org/wikipedia/en/0/0b/Punknewsorg_weblogo2009.png 1.5x" width="228"/>
+     </a>
+    </div>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <div style="padding:0.1em 0;line-height:1.2em;">
+    Type of site
+   </div>
+  </th>
+  <td>
+   <a href="/wiki/Music" title="Music">
+    Music
+   </a>
+   <a href="/wiki/Website" title="Website">
+    website
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Available in
+  </th>
+  <td>
+   English
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Website
+  </th>
+  <td class="url">
+   <a class="external text" href="http://www.punknews.org/" rel="nofollow">
+    www.punknews.org
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Commercial
+  </th>
+  <td>
+   Yes
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Registration
+  </th>
+  <td>
+   Yes
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Launched
+  </th>
+  <td>
+   1999
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Current status
+  </th>
+  <td class="category">
+   Active
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">
+    ISSN
+   </a>
+  </th>
+  <td>
+   <a class="external text" href="//www.worldcat.org/issn/1710-5366" rel="nofollow">
+    1710-5366
+   </a>
+  </td>
+ </tr>
+</table>

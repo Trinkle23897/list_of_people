@@ -1,0 +1,40 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Esther Batchelder
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1897-05-19
+    </span>
+    )
+   </span>
+   19 May 1897
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Died
+  </th>
+  <td>
+   13 June 1987
+   <span style="display:none">
+    (
+    <span class="dday deathdate">
+     1987-06-13
+    </span>
+    )
+   </span>
+   (aged 90)
+  </td>
+ </tr>
+</table>

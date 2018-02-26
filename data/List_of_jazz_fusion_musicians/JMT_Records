@@ -1,0 +1,83 @@
+<table class="infobox vcard" style="width:22em">
+ <tr>
+  <th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: LightBlue">
+   JMT Records
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Founded
+  </th>
+  <td>
+   1985
+   <span style="display:none">
+    (
+    <span class="bday dtstart published updated">
+     1985
+    </span>
+    )
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Founder
+  </th>
+  <td class="agent">
+   Stefan Winter
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Defunct
+  </th>
+  <td>
+   1995
+   <span style="display:none">
+    (
+    <span class="dtend">
+     1995
+    </span>
+    )
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Status
+  </th>
+  <td>
+   Inactive
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Genre
+  </th>
+  <td class="category">
+   <a href="/wiki/Jazz" title="Jazz">
+    Jazz
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Country of origin
+  </th>
+  <td>
+   <a href="/wiki/Germany" title="Germany">
+    Germany
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Location
+  </th>
+  <td class="label">
+   <a href="/wiki/Munich" title="Munich">
+    Munich
+   </a>
+  </td>
+ </tr>
+</table>

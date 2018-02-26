@@ -1,0 +1,186 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Roberto Ierusalimschy
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Robert_Ierusalimschy_at_the_Lua_Workshop_2013.jpg">
+    <img alt="Robert Ierusalimschy at the Lua Workshop 2013.jpg" data-file-height="1202" data-file-width="1117" height="237" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Robert_Ierusalimschy_at_the_Lua_Workshop_2013.jpg/220px-Robert_Ierusalimschy_at_the_Lua_Workshop_2013.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Robert_Ierusalimschy_at_the_Lua_Workshop_2013.jpg/330px-Robert_Ierusalimschy_at_the_Lua_Workshop_2013.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Robert_Ierusalimschy_at_the_Lua_Workshop_2013.jpg/440px-Robert_Ierusalimschy_at_the_Lua_Workshop_2013.jpg 2x" width="220"/>
+   </a>
+   <div>
+    Roberto Ierusalimschy speaking at the Lua Workshop Toulouse 2013
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1960-05-21
+    </span>
+    )
+   </span>
+   May 21, 1960
+   <span class="noprint ForceAgeToShow">
+    (age 57)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Residence
+  </th>
+  <td class="label">
+   <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">
+    Rio de Janeiro
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   <a href="/wiki/Brazil" title="Brazil">
+    Brazil
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Citizenship
+  </th>
+  <td class="category">
+   <a href="/wiki/Brazil" title="Brazil">
+    Brazil
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Education
+  </th>
+  <td>
+   <a href="/wiki/Pontifical_Catholic_University_of_Rio_de_Janeiro" title="Pontifical Catholic University of Rio de Janeiro">
+    Pontifical Catholic University of Rio de Janeiro
+   </a>
+   (PUC-Rio)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <a href="/wiki/Pontifical_Catholic_University_of_Rio_de_Janeiro" title="Pontifical Catholic University of Rio de Janeiro">
+    Pontifical Catholic University of Rio de Janeiro
+   </a>
+   (PUC-Rio)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a href="/wiki/Lua_(programming_language)" title="Lua (programming language)">
+    Lua
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <a class="mw-redirect" href="/wiki/Computer_Science" title="Computer Science">
+    Computer Science
+   </a>
+   <a class="mw-redirect" href="/wiki/Programming_Languages" title="Programming Languages">
+    Programming Languages
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <a href="/wiki/Pontifical_Catholic_University_of_Rio_de_Janeiro" title="Pontifical Catholic University of Rio de Janeiro">
+    Pontifical Catholic University of Rio de Janeiro
+   </a>
+   (PUC-Rio)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Thesis" title="Thesis">
+    Thesis
+   </a>
+  </th>
+  <td>
+   <a class="external text" href="http://www2.dbd.puc-rio.br/pergamum/biblioteca/php/mostrateses.php?arqtese=1990-IERUSALIMSCHY_R.pdf" rel="nofollow">
+    <i>
+     O=M : uma linguagem orientada a objetos para desenvolvimento rigoroso de programas (in Portuguese)
+    </i>
+   </a>
+   <span style="font-size:90%;">
+    (1990)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <a class="new" href="/w/index.php?title=Carlos_Jos%C3%A9_Pereira_de_Lucena&amp;action=edit&amp;redlink=1" title="Carlos José Pereira de Lucena (page does not exist)">
+    Carlos José Pereira de Lucena
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   <a class="new" href="/w/index.php?title=Carlos_Roberto_S._P._Cassino&amp;action=edit&amp;redlink=1" title="Carlos Roberto S. P. Cassino (page does not exist)">
+    Carlos Roberto S. P. Cassino
+   </a>
+   <a class="new" href="/w/index.php?title=Renato_F._G._Cerqueira&amp;action=edit&amp;redlink=1" title="Renato F. G. Cerqueira (page does not exist)">
+    Renato F. G. Cerqueira
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Influences
+  </th>
+  <td>
+   <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">
+    Dennis Ritchie
+   </a>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

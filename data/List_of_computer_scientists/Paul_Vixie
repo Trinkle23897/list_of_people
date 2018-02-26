@@ -1,0 +1,67 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Paul Vixie
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   <a href="/wiki/United_States" title="United States">
+    American
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Education
+  </th>
+  <td>
+   Keio University
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Occupation
+  </th>
+  <td class="role">
+   Founder/CEO of Farsight Security, Inc.,
+   <sup class="reference" id="cite_ref-1">
+    <a href="#cite_note-1">
+     [1]
+    </a>
+   </sup>
+   <sup class="reference" id="cite_ref-2">
+    <a href="#cite_note-2">
+     [2]
+    </a>
+   </sup>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a href="/wiki/Internet_Systems_Consortium" title="Internet Systems Consortium">
+    ISC
+   </a>
+   ,
+   <a href="/wiki/BIND" title="BIND">
+    BIND
+   </a>
+   ,
+   <a href="/wiki/Mail_Abuse_Prevention_System" title="Mail Abuse Prevention System">
+    MAPS
+   </a>
+   ,
+   <a class="mw-redirect" href="/wiki/Vixie_cron" title="Vixie cron">
+    Vixie cron
+   </a>
+  </td>
+ </tr>
+</table>

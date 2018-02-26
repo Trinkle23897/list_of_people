@@ -1,0 +1,65 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Jack Bishop
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   <span class="nowrap">
+    Spouse(s)
+   </span>
+  </th>
+  <td>
+   Lauren Chattman
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Culinary career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Cooking style
+  </th>
+  <td class="category">
+   Italian
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <div class="NavFrame collapsed" style="border: none; padding: 0;">
+    <div class="NavHead" style="font-size: 105%; background: transparent; text-align: left;">
+     Television show(s)
+    </div>
+    <ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; margin-left:10px; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+     <li style="line-height: inherit; margin: 0">
+      <i>
+       America’s Test Kitchen
+      </i>
+      (PBS)
+      <br/>
+      <i>
+       Cook’s Country TV
+      </i>
+      (PBS)
+      <br/>
+      <i>
+       The Today Show
+      </i>
+      (NBC)
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,56 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    James Ireland Craig
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   1868
+   <span style="display:none">
+    (
+    <span class="dtstart">
+     1868
+    </span>
+    )
+   </span>
+   <br/>
+   <span class="birthplace">
+    Buckhaven
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Died
+  </th>
+  <td>
+   1952
+   <span style="display:none">
+    (
+    <span class="dtend dday deathdate">
+     1953
+    </span>
+    )
+   </span>
+   (aged 84)
+   <br/>
+   <span class="deathplace">
+    Cairo
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Occupation
+  </th>
+  <td class="role">
+   Scottish mathematician
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,271 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Ronald L. Rivest
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Ronald_L_Rivest_photo.jpg">
+    <img alt="Ronald L Rivest photo.jpg" data-file-height="604" data-file-width="604" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ronald_L_Rivest_photo.jpg/250px-Ronald_L_Rivest_photo.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ronald_L_Rivest_photo.jpg/375px-Ronald_L_Rivest_photo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ronald_L_Rivest_photo.jpg/500px-Ronald_L_Rivest_photo.jpg 2x" width="250"/>
+   </a>
+   <div>
+    Ronald L. Rivest, 2012
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1947-05-06
+    </span>
+    )
+   </span>
+   May 6, 1947
+   <span class="noprint ForceAgeToShow">
+    (age 70)
+   </span>
+   <br/>
+   <span class="birthplace">
+    <a class="mw-redirect" href="/wiki/Schenectady" title="Schenectady">
+     Schenectady
+    </a>
+    ,
+    <a href="/wiki/New_York_(state)" title="New York (state)">
+     New York
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Residence
+  </th>
+  <td class="label">
+   United States
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   American
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <a href="/wiki/Stanford_University" title="Stanford University">
+    Stanford University
+   </a>
+   <br/>
+   <a href="/wiki/Yale_University" title="Yale University">
+    Yale University
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a class="mw-redirect" href="/wiki/Public-key" title="Public-key">
+    Public-key
+   </a>
+   <br/>
+   <a class="mw-redirect" href="/wiki/RSA_(algorithm)" title="RSA (algorithm)">
+    RSA
+   </a>
+   ,
+   <a href="/wiki/RC2" title="RC2">
+    RC2
+   </a>
+   ,
+   <a class="mw-redirect" href="/wiki/RC4_(cipher)" title="RC4 (cipher)">
+    RC4
+   </a>
+   ,
+   <a href="/wiki/RC5" title="RC5">
+    RC5
+   </a>
+   ,
+   <a href="/wiki/RC6" title="RC6">
+    RC6
+   </a>
+   <br/>
+   <a href="/wiki/MD2_(cryptography)" title="MD2 (cryptography)">
+    MD2
+   </a>
+   ,
+   <a href="/wiki/MD4" title="MD4">
+    MD4
+   </a>
+   ,
+   <a href="/wiki/MD5" title="MD5">
+    MD5
+   </a>
+   ,
+   <a href="/wiki/MD6" title="MD6">
+    MD6
+   </a>
+   ,
+   <a href="/wiki/Ring_signature" title="Ring signature">
+    Ring signature
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   <a href="/wiki/Paris_Kanellakis_Award" title="Paris Kanellakis Award">
+    Paris Kanellakis Award
+   </a>
+   <small>
+    (1996)
+   </small>
+   <br/>
+   <a href="/wiki/Turing_Award" title="Turing Award">
+    Turing Award
+   </a>
+   <small>
+    (2002)
+   </small>
+   <br/>
+   <a href="/wiki/Marconi_Prize" title="Marconi Prize">
+    Marconi Prize
+   </a>
+   <small>
+    (2007)
+   </small>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <a href="/wiki/Cryptography" title="Cryptography">
+    Cryptography
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">
+    Massachusetts Institute of Technology
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">
+    Robert W. Floyd
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   Ben Adida
+   <br/>
+   Javed Aslam
+   <br/>
+   Alan Baratz
+   <br/>
+   Paul Bayer
+   <br/>
+   Margrit Betke
+   <br/>
+   <a href="/wiki/Avrim_Blum" title="Avrim Blum">
+    Avrim Blum
+   </a>
+   <br/>
+   Stephen Boyack
+   <br/>
+   Victor Boyko
+   <br/>
+   Ben-Zion Chor
+   <br/>
+   Kevin Fu
+   <br/>
+   Igal Galperin
+   <br/>
+   Sally Goldman
+   <br/>
+   Jonathan Herzog
+   <br/>
+   Susan Hohenberger
+   <br/>
+   <a href="/wiki/Burt_Kaliski" title="Burt Kaliski">
+    Burt Kaliski
+   </a>
+   <br/>
+   Andrea LaPaugh
+   <br/>
+   Errol Lloyd
+   <br/>
+   Anna Lysyanskaya
+   <br/>
+   <a href="/wiki/Ron_Pinter" title="Ron Pinter">
+    Ron Pinter
+   </a>
+   <br/>
+   Zulfikar Ramzan
+   <br/>
+   <a href="/wiki/Robert_Schapire" title="Robert Schapire">
+    Robert Schapire
+   </a>
+   <br/>
+   <a class="new" href="/w/index.php?title=Emily_Shen&amp;action=edit&amp;redlink=1" title="Emily Shen (page does not exist)">
+    Emily Shen
+   </a>
+   <br/>
+   <a href="/wiki/Alan_Sherman" title="Alan Sherman">
+    Alan Sherman
+   </a>
+   <br/>
+   Mona Singh
+   <br/>
+   Robert Sloan
+   <br/>
+   Donna Slonim
+   <br/>
+   Andrew Sutherland
+   <br/>
+   Stephen Weis
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

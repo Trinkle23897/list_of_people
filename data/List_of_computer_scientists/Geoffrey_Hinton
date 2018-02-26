@@ -1,0 +1,630 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Geoffrey Hinton
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Geoffrey_Hinton_at_UBC.jpg">
+    <img alt="Geoffrey Hinton at UBC.jpg" data-file-height="1744" data-file-width="1384" height="277" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Geoffrey_Hinton_at_UBC.jpg/220px-Geoffrey_Hinton_at_UBC.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Geoffrey_Hinton_at_UBC.jpg/330px-Geoffrey_Hinton_at_UBC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Geoffrey_Hinton_at_UBC.jpg/440px-Geoffrey_Hinton_at_UBC.jpg 2x" width="220"/>
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span class="nickname">
+    Geoffrey Everest Hinton
+   </span>
+   <br/>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1947-12-06
+    </span>
+    )
+   </span>
+   6 December 1947
+   <span class="noprint ForceAgeToShow">
+    (age 69)
+   </span>
+   <sup class="reference" id="cite_ref-whoswho_1-0">
+    <a href="#cite_note-whoswho-1">
+     [1]
+    </a>
+   </sup>
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/Wimbledon,_London" title="Wimbledon, London">
+     Wimbledon, London
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Residence
+  </th>
+  <td class="label">
+   <a href="/wiki/Canada" title="Canada">
+    Canada
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/King%27s_College,_Cambridge" title="King's College, Cambridge">
+       King's College, Cambridge
+      </a>
+      (BA)
+     </li>
+     <li>
+      <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">
+       University of Edinburgh
+      </a>
+      (PhD)
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Backpropagation" title="Backpropagation">
+       Backpropagation
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Boltzmann_machine" title="Boltzmann machine">
+       Boltzmann machine
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Deep_learning" title="Deep learning">
+       Deep learning
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">
+       FRS
+      </a>
+      (1998)
+      <sup class="reference" id="cite_ref-frs_2-0">
+       <a href="#cite_note-frs-2">
+        [2]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/AAAI" title="AAAI">
+       AAAI
+      </a>
+      Fellow
+      <small>
+       (1990)
+      </small>
+     </li>
+     <li>
+      <a href="/wiki/Rumelhart_Prize" title="Rumelhart Prize">
+       Rumelhart Prize
+      </a>
+      <small>
+       (2001)
+      </small>
+     </li>
+     <li>
+      <a href="/wiki/IJCAI_Award_for_Research_Excellence" title="IJCAI Award for Research Excellence">
+       IJCAI Award for Research Excellence
+      </a>
+      <small>
+       (2005)
+      </small>
+     </li>
+     <li>
+      <a href="/wiki/IEEE_Frank_Rosenblatt_Award" title="IEEE Frank Rosenblatt Award">
+       IEEE Frank Rosenblatt Award
+      </a>
+      <small>
+       (2014)
+      </small>
+     </li>
+     <li>
+      <a href="/wiki/BBVA_Foundation_Frontiers_of_Knowledge_Award" title="BBVA Foundation Frontiers of Knowledge Award">
+       BBVA Foundation Frontiers of Knowledge Award
+      </a>
+      <small>
+       (2016)
+      </small>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Website
+  </th>
+  <td>
+   <span class="url">
+    <a class="external text" href="https://www.cs.toronto.edu/~hinton/" rel="nofollow">
+     www
+     <wbr>
+     </wbr>
+     .cs
+     <wbr>
+     </wbr>
+     .toronto
+     <wbr>
+     </wbr>
+     .edu
+     <wbr>
+     </wbr>
+     /~hinton
+     <wbr>
+     </wbr>
+     /
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Machine_learning" title="Machine learning">
+       Machine learning
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Neural_network" title="Neural network">
+       Neural networks
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">
+       Artificial intelligence
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Cognitive_science" title="Cognitive science">
+       Cognitive science
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Object_recognition" title="Object recognition">
+       Object recognition
+      </a>
+      <sup class="reference" id="cite_ref-googlescholar_3-0">
+       <a href="#cite_note-googlescholar-3">
+        [3]
+       </a>
+      </sup>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <a href="/wiki/University_of_Toronto" title="University of Toronto">
+    University of Toronto
+   </a>
+   <br/>
+   <a href="/wiki/Google" title="Google">
+    Google
+   </a>
+   <br/>
+   <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">
+    Carnegie Mellon University
+   </a>
+   <br/>
+   <a href="/wiki/University_College_London" title="University College London">
+    University College London
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Thesis" title="Thesis">
+    Thesis
+   </a>
+  </th>
+  <td>
+   <a class="external text" href="http://www.era.lib.ed.ac.uk/handle/1842/8121" rel="nofollow">
+    <i>
+     Relaxation and its role in vision
+    </i>
+   </a>
+   <span style="font-size:90%;">
+    (1977)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <a class="mw-redirect" href="/wiki/H._Christopher_Longuet-Higgins" title="H. Christopher Longuet-Higgins">
+    Christopher Longuet-Higgins
+   </a>
+   <sup class="reference" id="cite_ref-mathgene_4-0">
+    <a href="#cite_note-mathgene-4">
+     [4]
+    </a>
+   </sup>
+   <sup class="reference" id="cite_ref-5">
+    <a href="#cite_note-5">
+     [5]
+    </a>
+   </sup>
+   <sup class="reference" id="cite_ref-6">
+    <a href="#cite_note-6">
+     [6]
+    </a>
+   </sup>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      David Ackley
+      <sup class="reference" id="cite_ref-mathgene_4-1">
+       <a href="#cite_note-mathgene-4">
+        [4]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Peter Brown
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Richard Szeliski
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Mark Derthick
+      <sup class="reference" id="cite_ref-derphd_7-0">
+       <a href="#cite_note-derphd-7">
+        [7]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Kevin Lang
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Steven Nowlan
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      David Plaut
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Sidney Fels
+      <sup class="reference" id="cite_ref-mathgene_4-2">
+       <a href="#cite_note-mathgene-4">
+        [4]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Sue Becker
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Richard_Zemel" title="Richard Zemel">
+       Richard Zemel
+      </a>
+      <sup class="reference" id="cite_ref-zemphd_8-0">
+       <a href="#cite_note-zemphd-8">
+        [8]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Carl Rasmussen
+      <sup class="reference" id="cite_ref-mathgene_4-3">
+       <a href="#cite_note-mathgene-4">
+        [4]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Chris Williams
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Brendan_Frey" title="Brendan Frey">
+       Brendan Frey
+      </a>
+      <sup class="reference" id="cite_ref-brenphd_9-0">
+       <a href="#cite_note-brenphd-9">
+        [9]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Radford_M._Neal" title="Radford M. Neal">
+       Radford M. Neal
+      </a>
+      <sup class="reference" id="cite_ref-radphd_10-0">
+       <a href="#cite_note-radphd-10">
+        [10]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Radek Grzeszczuk
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Brian Sallans
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Sageev Oore
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Alberto Paccanaro
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Yee Whye Teh
+      <sup class="reference" id="cite_ref-mathgene_4-4">
+       <a href="#cite_note-mathgene-4">
+        [4]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Ruslan_Salakhutdinov" title="Ruslan Salakhutdinov">
+       Ruslan Salakhutdinov
+      </a>
+      <sup class="reference" id="cite_ref-rusphd_11-0">
+       <a href="#cite_note-rusphd-11">
+        [11]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Ilya_Sutskever" title="Ilya Sutskever">
+       Ilya Sutskever
+      </a>
+      <sup class="reference" id="cite_ref-sutsphd_12-0">
+       <a href="#cite_note-sutsphd-12">
+        [12]
+       </a>
+      </sup>
+     </li>
+     <li>
+      George Dahl
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Navdeep Jaitly
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2017)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Other notable students
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Yann_LeCun" title="Yann LeCun">
+       Yann LeCun
+      </a>
+      (
+      <a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">
+       postdoc
+      </a>
+      )
+     </li>
+     <li>
+      <a href="/wiki/Zoubin_Ghahramani" title="Zoubin Ghahramani">
+       Zoubin Ghahramani
+      </a>
+      (
+      <a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">
+       postdoc
+      </a>
+      )
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

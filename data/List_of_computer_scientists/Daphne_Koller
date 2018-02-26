@@ -1,0 +1,215 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Daphne Koller
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Daphne_Koller_with_flowers_(portrait).jpg">
+    <img alt="Daphne Koller with flowers (portrait).jpg" data-file-height="768" data-file-width="615" height="275" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Daphne_Koller_with_flowers_%28portrait%29.jpg/220px-Daphne_Koller_with_flowers_%28portrait%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Daphne_Koller_with_flowers_%28portrait%29.jpg/330px-Daphne_Koller_with_flowers_%28portrait%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Daphne_Koller_with_flowers_%28portrait%29.jpg/440px-Daphne_Koller_with_flowers_%28portrait%29.jpg 2x" width="220"/>
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1968-08-27
+    </span>
+    )
+   </span>
+   August 27, 1968
+   <span class="noprint ForceAgeToShow">
+    (age 49)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Residence
+  </th>
+  <td class="label">
+   <a href="/wiki/United_States" title="United States">
+    United States
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   <a href="/wiki/Israel" title="Israel">
+    Israel
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <a href="/wiki/Stanford_University" title="Stanford University">
+    Stanford University
+   </a>
+   (1993, PhD)
+   <br/>
+   <a href="/wiki/Hebrew_University_of_Jerusalem" title="Hebrew University of Jerusalem">
+    Hebrew University of Jerusalem
+   </a>
+   (1986, MS)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a class="mw-redirect" href="/wiki/Machine_Learning" title="Machine Learning">
+    Machine Learning
+   </a>
+   <br/>
+   <a href="/wiki/Graphical_model" title="Graphical model">
+    Graphical model
+   </a>
+   <br/>
+   <a class="mw-redirect" href="/wiki/MOOC" title="MOOC">
+    MOOC
+   </a>
+   (
+   <a href="/wiki/Coursera" title="Coursera">
+    Coursera
+   </a>
+   )
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   <a href="/wiki/IJCAI_Computers_and_Thought_Award" title="IJCAI Computers and Thought Award">
+    IJCAI Computers and Thought Award
+   </a>
+   (2001)
+   <br/>
+   <a href="/wiki/MacArthur_Fellows_Program" title="MacArthur Fellows Program">
+    MacArthur Fellow
+   </a>
+   (2004)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Website
+  </th>
+  <td>
+   <span class="url">
+    <a class="external text" href="http://ai.stanford.edu/~koller/" rel="nofollow">
+     ai
+     <wbr>
+     </wbr>
+     .stanford
+     <wbr>
+     </wbr>
+     .edu
+     <wbr>
+     </wbr>
+     /~koller
+     <wbr>
+     </wbr>
+     /
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <a class="mw-redirect" href="/wiki/Artificial_Intelligence" title="Artificial Intelligence">
+    Artificial Intelligence
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <a href="/wiki/Stanford_University" title="Stanford University">
+    Stanford University
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Thesis" title="Thesis">
+    Thesis
+   </a>
+  </th>
+  <td>
+   <a class="external text" href="http://i.stanford.edu/pub/cstr/reports/cs/tr/94/1527/CS-TR-94-1527.pdf" rel="nofollow">
+    <i>
+     From Knowledge to Belief
+    </i>
+   </a>
+   <span style="font-size:90%;">
+    (1994)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <a href="/wiki/Joseph_Halpern" title="Joseph Halpern">
+    Joseph Halpern
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   <a href="/wiki/Eran_Segal" title="Eran Segal">
+    Eran Segal
+   </a>
+   ,
+   <a href="/wiki/Lise_Getoor" title="Lise Getoor">
+    Lise Getoor
+   </a>
+   ,
+   <a href="/wiki/Mehran_Sahami" title="Mehran Sahami">
+    Mehran Sahami
+   </a>
+   ,
+   <a href="/wiki/Ben_Taskar" title="Ben Taskar">
+    Ben Taskar
+   </a>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

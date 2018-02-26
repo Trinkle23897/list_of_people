@@ -1,0 +1,31 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    John McGlynn
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1953-09-08
+    </span>
+    )
+   </span>
+   8 September 1953
+   <span class="noprint ForceAgeToShow">
+    (age 64)
+   </span>
+   <br/>
+   <span class="birthplace">
+    Scotland
+   </span>
+  </td>
+ </tr>
+</table>

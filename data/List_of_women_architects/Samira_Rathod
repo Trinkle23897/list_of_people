@@ -1,0 +1,53 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Samira Rathod
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   Indian
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   Sir J. J. College of Architecture
+   <br/>
+   University of Illinois at Urbana-Champaign
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Occupation
+  </th>
+  <td class="role">
+   Architect
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Practice
+  </th>
+  <td>
+   Don Wald and Associates
+   <br/>
+   Samira Rathod Design Associates
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

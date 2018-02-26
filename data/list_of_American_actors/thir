@@ -1,0 +1,42 @@
+from __future__ import with_statement
+import requests     
+from bs4 import BeautifulSoup 
+import os
+import sys  
+import re
+reload(sys)  
+sys.setdefaultencoding('gb18030')
+ 
+
+headers = {'User-Agent':"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}
+first_url = 'https://en.wikipedia.org/wiki/'  
+
+
+
+
+fnew = open("list.txt","r")
+count=0
+
+actress_all_url = fnew.readlines( )
+for actress_url in actress_all_url:
+    count+=1
+    flag = 1
+    second_url = actress_url.replace(' ','_')
+    second_url = second_url[:-1]
+    try:
+        if  os.path.exists(second_url+".txt"):
+            flag = 0
+        if flag == 1:
+            start_html = requests.get(first_url+second_url,headers=headers)
+            Soup = BeautifulSoup(start_html.text, 'lxml')
+            all_a = Soup.find_all('table',class_='infobox biography vcard')
+            if all_a != None:
+                print count
+                fp = open(second_url+".txt","w")
+                for a in all_a:
+                    counter = str(a)
+                    fp.write(counter)
+                fp.close()
+    except:
+        continue
+fnew.close()

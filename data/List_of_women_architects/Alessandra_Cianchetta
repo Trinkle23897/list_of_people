@@ -1,0 +1,57 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Alessandra Cianchetta
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   1971
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   Italian
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Occupation
+  </th>
+  <td class="role">
+   Architecture
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   French Ministry of Culture Prize
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Practice
+  </th>
+  <td>
+   AWP Paris
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

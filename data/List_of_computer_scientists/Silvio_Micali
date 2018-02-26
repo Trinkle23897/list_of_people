@@ -1,0 +1,240 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Silvio Micali
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Silvio_Micali_IMG_0459.jpg">
+    <img alt="Silvio Micali IMG 0459.jpg" data-file-height="3744" data-file-width="3744" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silvio_Micali_IMG_0459.jpg/220px-Silvio_Micali_IMG_0459.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silvio_Micali_IMG_0459.jpg/330px-Silvio_Micali_IMG_0459.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silvio_Micali_IMG_0459.jpg/440px-Silvio_Micali_IMG_0459.jpg 2x" width="220"/>
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1954-10-13
+    </span>
+    )
+   </span>
+   October 13, 1954
+   <span class="noprint ForceAgeToShow">
+    (age 62)
+   </span>
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/Palermo" title="Palermo">
+     Palermo
+    </a>
+    ,
+    <a href="/wiki/Italy" title="Italy">
+     Italy
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   <a href="/wiki/Italy" title="Italy">
+    Italian
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <a class="mw-redirect" href="/wiki/La_Sapienza_University_of_Rome" title="La Sapienza University of Rome">
+    La Sapienza University of Rome
+   </a>
+   <br/>
+   <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">
+    University of California, Berkeley
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a href="/wiki/Goldwasser%E2%80%93Micali_cryptosystem" title="Goldwasser–Micali cryptosystem">
+    Goldwasser–Micali cryptosystem
+   </a>
+   <br/>
+   <a href="/wiki/Zero-knowledge_proof" title="Zero-knowledge proof">
+    Zero-knowledge proof
+   </a>
+   <sup class="reference" id="cite_ref-turing_1-0">
+    <a href="#cite_note-turing-1">
+     [1]
+    </a>
+   </sup>
+   <br/>
+   <a href="/wiki/Pseudorandom_function_family" title="Pseudorandom function family">
+    Pseudorandom Functions
+   </a>
+   <br/>
+   <a href="/wiki/Peppercoin" title="Peppercoin">
+    Peppercoin
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   <a href="/wiki/G%C3%B6del_Prize" title="Gödel Prize">
+    Gödel Prize
+   </a>
+   (1993)
+   <br/>
+   <a href="/wiki/Turing_Award" title="Turing Award">
+    Turing Award
+   </a>
+   <small>
+    (2012)
+   </small>
+   <sup class="reference" id="cite_ref-turing_1-1">
+    <a href="#cite_note-turing-1">
+     [1]
+    </a>
+   </sup>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Website
+  </th>
+  <td>
+   <span class="url">
+    <a class="external text" href="http://people.csail.mit.edu/silvio" rel="nofollow">
+     people
+     <wbr>
+     </wbr>
+     .csail
+     <wbr>
+     </wbr>
+     .mit
+     <wbr>
+     </wbr>
+     .edu
+     <wbr>
+     </wbr>
+     /silvio
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <a class="mw-redirect" href="/wiki/Computer_Science" title="Computer Science">
+    Computer Science
+   </a>
+   <br/>
+   <a href="/wiki/Cryptography" title="Cryptography">
+    Cryptography
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <a href="/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory">
+    MIT Computer Science and Artificial Intelligence Laboratory
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Thesis" title="Thesis">
+    Thesis
+   </a>
+  </th>
+  <td>
+   <a class="external text" href="http://search.proquest.com/docview/303128130" rel="nofollow">
+    <i>
+     Randomness versus Hardness
+    </i>
+   </a>
+   <span style="font-size:90%;">
+    (1983)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <a href="/wiki/Manuel_Blum" title="Manuel Blum">
+    Manuel Blum
+   </a>
+   <sup class="reference" id="cite_ref-mathgene_2-0">
+    <a href="#cite_note-mathgene-2">
+     [2]
+    </a>
+   </sup>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   <a href="/wiki/Mihir_Bellare" title="Mihir Bellare">
+    Mihir Bellare
+   </a>
+   <br/>
+   <a href="/wiki/Rafail_Ostrovsky" title="Rafail Ostrovsky">
+    Rafail Ostrovsky
+   </a>
+   <br/>
+   <a href="/wiki/Phillip_Rogaway" title="Phillip Rogaway">
+    Phillip Rogaway
+   </a>
+   <br/>
+   <sup class="reference" id="cite_ref-3">
+    <a href="#cite_note-3">
+     [3]
+    </a>
+   </sup>
+   <sup class="reference" id="cite_ref-mathgene_2-1">
+    <a href="#cite_note-mathgene-2">
+     [2]
+    </a>
+   </sup>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

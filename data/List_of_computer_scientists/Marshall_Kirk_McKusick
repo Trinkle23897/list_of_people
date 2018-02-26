@@ -1,0 +1,88 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Marshall Kirk McKusick
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Marshall_Kirk_McKusick-lca2011.jpg">
+    <img alt="Marshall Kirk McKusick-lca2011.jpg" data-file-height="2510" data-file-width="1674" height="330" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Marshall_Kirk_McKusick-lca2011.jpg/220px-Marshall_Kirk_McKusick-lca2011.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Marshall_Kirk_McKusick-lca2011.jpg/330px-Marshall_Kirk_McKusick-lca2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Marshall_Kirk_McKusick-lca2011.jpg/440px-Marshall_Kirk_McKusick-lca2011.jpg 2x" width="220"/>
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span class="mw-formatted-date" title="1954-01-19">
+    January 19, 1954
+   </span>
+   <span style="display:none">
+    (
+    <span class="dtstart bday">
+     1954-01-19
+    </span>
+    )
+   </span>
+   (age 63)
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/Wilmington,_Delaware" title="Wilmington, Delaware">
+     Wilmington, Delaware
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Education
+  </th>
+  <td>
+   <a class="mw-redirect" href="/wiki/University_of_California_at_Berkeley" title="University of California at Berkeley">
+    University of California at Berkeley
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a class="mw-redirect" href="/wiki/BSD" title="BSD">
+    BSD
+   </a>
+   ,
+   <a href="/wiki/FreeBSD" title="FreeBSD">
+    FreeBSD
+   </a>
+   ,
+   <a href="/wiki/Unix_File_System" title="Unix File System">
+    UFS
+   </a>
+   ,
+   <a href="/wiki/Soft_updates" title="Soft updates">
+    soft updates
+   </a>
+   ,
+   <a href="/wiki/BSD_Daemon" title="BSD Daemon">
+    BSD Daemon
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <span class="nowrap">
+    Spouse(s)
+   </span>
+  </th>
+  <td>
+   <a href="/wiki/Eric_Allman" title="Eric Allman">
+    Eric Allman
+   </a>
+  </td>
+ </tr>
+</table>

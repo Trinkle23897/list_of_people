@@ -1,0 +1,82 @@
+<table class="infobox vcard" style="width:22em">
+ <tr>
+  <th class="fn" colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   John Emms
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Full name
+  </th>
+  <td>
+   John Michael Emms
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Country
+  </th>
+  <td class="adr">
+   <span class="flagicon">
+    <img alt="" class="thumbborder" data-file-height="480" data-file-width="800" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" width="23"/>
+   </span>
+   <a href="/wiki/England" title="England">
+    England
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1967-03-14
+    </span>
+    )
+   </span>
+   14 March 1967
+   <span class="noprint ForceAgeToShow">
+    (age 50)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Title
+  </th>
+  <td class="note">
+   <a href="/wiki/Grandmaster_(chess)" title="Grandmaster (chess)">
+    Grandmaster (chess)
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/FIDE" title="FIDE">
+    FIDE
+   </a>
+   <a href="/wiki/Elo_rating_system" title="Elo rating system">
+    rating
+   </a>
+  </th>
+  <td>
+   <a class="external text" href="https://ratings.fide.com/card.phtml?event=400254" rel="nofollow">
+    2484
+   </a>
+   (September 2017)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Elo_rating_system" title="Elo rating system">
+    Peak rating
+   </a>
+  </th>
+  <td>
+   2586 (July 1999)
+  </td>
+ </tr>
+</table>

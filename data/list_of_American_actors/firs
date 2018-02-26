@@ -1,0 +1,31 @@
+from __future__ import with_statement
+import requests     
+from bs4 import BeautifulSoup 
+import os
+import sys  
+import re
+reload(sys)  
+sys.setdefaultencoding('gb18030')
+ 
+
+headers = {'User-Agent':"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"}
+ 
+fnew = open("actorweb.txt","r")
+count=0
+fp = open("list.txt","w")
+
+actress_all_url = fnew.readlines( )
+for actress_url in actress_all_url:
+    count+=1
+    second_url = actress_url
+    second_url = second_url[:-1]
+    try:
+        start_html = requests.get(second_url,headers=headers)
+        Soup = BeautifulSoup(start_html.text, 'lxml')
+        all_a = Soup.find_all(text=re.compile("[A-Z][a-z]+\s[A-Z][a-z]+"))
+        for a in all_a:
+            fp.write(a+"\n")
+    except:
+        continue
+fp.close()
+fnew.close()

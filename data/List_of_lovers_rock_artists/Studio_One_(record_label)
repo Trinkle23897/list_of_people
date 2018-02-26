@@ -1,0 +1,58 @@
+<table class="infobox vcard" style="width:22em">
+ <tr>
+  <th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: LightBlue">
+   Studio One
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Founded
+  </th>
+  <td>
+   1954
+   <span style="display:none">
+    (
+    <span class="bday dtstart published updated">
+     1954
+    </span>
+    )
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Founder
+  </th>
+  <td class="agent">
+   Clement "Coxsone" Dodd
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Genre
+  </th>
+  <td class="category">
+   <a href="/wiki/Ska" title="Ska">
+    Ska
+   </a>
+   ,
+   <a href="/wiki/Rocksteady" title="Rocksteady">
+    Rocksteady
+   </a>
+   ,
+   <a href="/wiki/Reggae" title="Reggae">
+    Reggae
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Country of origin
+  </th>
+  <td>
+   <a href="/wiki/Jamaica" title="Jamaica">
+    Jamaica
+   </a>
+  </td>
+ </tr>
+</table>

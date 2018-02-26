@@ -1,0 +1,60 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Sol Worth
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span class="mw-formatted-date" title="1922-08-19">
+    August 19, 1922
+   </span>
+   <span style="display:none">
+    (
+    <span class="dtstart">
+     1922-08-19
+    </span>
+    )
+   </span>
+   <br/>
+   <span class="birthplace">
+    New York City
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Died
+  </th>
+  <td>
+   <span class="mw-formatted-date" title="1977-08-29">
+    August 29, 1977
+   </span>
+   <span style="display:none">
+    (
+    <span class="dtend dday deathdate">
+     1977-08-30
+    </span>
+    )
+   </span>
+   (aged 55)
+   <br/>
+   <span class="deathplace">
+    Andover, Massachusetts
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Occupation
+  </th>
+  <td class="role">
+   American anthropologist
+  </td>
+ </tr>
+</table>

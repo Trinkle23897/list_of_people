@@ -1,0 +1,447 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Gordon Plotkin
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Gordon_Plotkin.jpg">
+    <img alt="Gordon Plotkin.jpg" data-file-height="1200" data-file-width="1600" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gordon_Plotkin.jpg/220px-Gordon_Plotkin.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gordon_Plotkin.jpg/330px-Gordon_Plotkin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gordon_Plotkin.jpg/440px-Gordon_Plotkin.jpg 2x" width="220"/>
+   </a>
+   <div>
+    At the MFCS 2005 conference
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span class="nickname">
+    Gordon David Plotkin
+   </span>
+   <br/>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1946-09-09
+    </span>
+    )
+   </span>
+   9 September 1946
+   <span class="noprint ForceAgeToShow">
+    (age 71)
+   </span>
+   <sup class="reference" id="cite_ref-whoswho_1-0">
+    <a href="#cite_note-whoswho-1">
+     [1]
+    </a>
+   </sup>
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/Glasgow" title="Glasgow">
+     Glasgow
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Residence
+  </th>
+  <td class="label">
+   <a href="/wiki/Scotland" title="Scotland">
+    Scotland
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   British
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <a href="/wiki/University_of_Glasgow" title="University of Glasgow">
+    University of Glasgow
+   </a>
+   (BSc)
+   <br/>
+   <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">
+    University of Edinburgh
+   </a>
+   (PhD)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a href="/wiki/Programming_Computable_Functions" title="Programming Computable Functions">
+    Programming Computable Functions
+   </a>
+   <br/>
+   <a href="/wiki/Unbounded_nondeterminism" title="Unbounded nondeterminism">
+    Unbounded nondeterminism
+   </a>
+   <br/>
+   <a href="/wiki/Operational_semantics" title="Operational semantics">
+    Operational semantics
+   </a>
+   <br/>
+   <a href="/wiki/Domain_theory" title="Domain theory">
+    Domain theory
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">
+       Fellow of the Royal Society
+      </a>
+      (1988)
+      <sup class="reference" id="cite_ref-royal_2-0">
+       <a href="#cite_note-royal-2">
+        [2]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Milner_Award" title="Milner Award">
+       Milner Award
+      </a>
+      (2012)
+     </li>
+     <li>
+      <a href="/wiki/Royal_Society_Wolfson_Research_Merit_Award" title="Royal Society Wolfson Research Merit Award">
+       Royal Society Wolfson Research Merit Award
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Royal_Society_of_Edinburgh" title="Royal Society of Edinburgh">
+       FRSE
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/European_Association_for_Theoretical_Computer_Science" title="European Association for Theoretical Computer Science">
+       EATCS Award
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Website
+  </th>
+  <td>
+   <span class="url">
+    <a class="external text" href="http://homepages.inf.ed.ac.uk/gdp" rel="nofollow">
+     homepages
+     <wbr>
+     </wbr>
+     .inf
+     <wbr>
+     </wbr>
+     .ed
+     <wbr>
+     </wbr>
+     .ac
+     <wbr>
+     </wbr>
+     .uk
+     <wbr>
+     </wbr>
+     /gdp
+    </a>
+   </span>
+   <br/>
+   <span class="url">
+    <a class="external text" href="http://inf.ed.ac.uk/people/staff/Gordon_Plotkin.html" rel="nofollow">
+     inf
+     <wbr>
+     </wbr>
+     .ed
+     <wbr>
+     </wbr>
+     .ac
+     <wbr>
+     </wbr>
+     .uk
+     <wbr>
+     </wbr>
+     /people
+     <wbr>
+     </wbr>
+     /staff
+     <wbr>
+     </wbr>
+     /Gordon
+     <wbr>
+     </wbr>
+     _Plotkin
+     <wbr>
+     </wbr>
+     .html
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <a href="/wiki/Logic" title="Logic">
+    Logic
+   </a>
+   <br/>
+   <a href="/wiki/Computer_science" title="Computer science">
+    Computer science
+   </a>
+   <br/>
+   Mathematics
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">
+    University of Edinburgh
+   </a>
+   <br/>
+   <a href="/wiki/Laboratory_for_Foundations_of_Computer_Science" title="Laboratory for Foundations of Computer Science">
+    Laboratory for Foundations of Computer Science
+   </a>
+   <br/>
+   <a href="/wiki/University_of_Edinburgh_School_of_Informatics" title="University of Edinburgh School of Informatics">
+    School of Informatics
+   </a>
+   <br/>
+   <a href="/wiki/University_of_Glasgow" title="University of Glasgow">
+    University of Glasgow
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Thesis" title="Thesis">
+    Thesis
+   </a>
+  </th>
+  <td>
+   <a class="external text" href="https://www.era.lib.ed.ac.uk/handle/1842/6656" rel="nofollow">
+    <i>
+     Automatic methods of inductive inference
+    </i>
+   </a>
+   <span style="font-size:90%;">
+    (1972)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Rod_Burstall" title="Rod Burstall">
+       Rod Burstall
+      </a>
+      <sup class="reference" id="cite_ref-mathgene_3-0">
+       <a href="#cite_note-mathgene-3">
+        [3]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Donald_Michie" title="Donald Michie">
+       Donald Michie
+      </a>
+      <sup class="reference" id="cite_ref-plotkinphd_4-0">
+       <a href="#cite_note-plotkinphd-4">
+        [4]
+       </a>
+      </sup>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Luca_Cardelli" title="Luca Cardelli">
+       Luca Cardelli
+      </a>
+      <sup class="reference" id="cite_ref-lucaphd_5-0">
+       <a href="#cite_note-lucaphd-5">
+        [5]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Marcelo Fiore
+      <sup class="reference" id="cite_ref-fiorephd_6-0">
+       <a href="#cite_note-fiorephd-6">
+        [6]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Philippa_Gardner" title="Philippa Gardner">
+       Philippa Gardner
+      </a>
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (October 2015)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Martin Hofmann
+      <sup class="reference" id="cite_ref-thehoffphd_7-0">
+       <a href="#cite_note-thehoffphd-7">
+        [7]
+       </a>
+      </sup>
+     </li>
+     <li>
+      John Longley
+      <sup class="reference" id="cite_ref-longphd_8-0">
+       <a href="#cite_note-longphd-8">
+        [8]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Ewen Denney
+      <sup class="reference" id="cite_ref-denneyphd_9-0">
+       <a href="#cite_note-denneyphd-9">
+        [9]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Eugenio_Moggi" title="Eugenio Moggi">
+       Eugenio Moggi
+      </a>
+      <sup class="reference" id="cite_ref-moggiphd_10-0">
+       <a href="#cite_note-moggiphd-10">
+        [10]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Mohammad Reza Mousavi
+      <sup class="reference" id="cite_ref-mousaviphd_11-0">
+       <a href="#cite_note-mousaviphd-11">
+        [11]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Michael Pedersen
+      <sup class="reference" id="cite_ref-pedphd_12-0">
+       <a href="#cite_note-pedphd-12">
+        [12]
+       </a>
+      </sup>
+     </li>
+     <li>
+      David Pym
+      <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+       [
+       <i>
+        <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+         <span title="This claim needs references to reliable sources. (April 2014)">
+          citation needed
+         </span>
+        </a>
+       </i>
+       ]
+      </sup>
+     </li>
+     <li>
+      Alex Simpson
+      <sup class="reference" id="cite_ref-simpphd_13-0">
+       <a href="#cite_note-simpphd-13">
+        [13]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Li_Wei_(scientist)" title="Li Wei (scientist)">
+       Lǐ Wèi
+      </a>
+      <sup class="reference" id="cite_ref-liweiphd_14-0">
+       <a href="#cite_note-liweiphd-14">
+        [14]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Glynn Winskel
+      <sup class="reference" id="cite_ref-mathgene_3-1">
+       <a href="#cite_note-mathgene-3">
+        [3]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-winphd_15-0">
+       <a href="#cite_note-winphd-15">
+        [15]
+       </a>
+      </sup>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

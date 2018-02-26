@@ -1,0 +1,49 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Hassam Khan
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span class="nickname">
+    Hassam Ali Khan
+   </span>
+   <br/>
+   16th January 1990
+   <span style="display:none">
+    (
+    <span class="dtstart bday">
+     1990-01-16
+    </span>
+    )
+   </span>
+   (age 27)
+   <br/>
+   <span class="birthplace">
+    Karachi, Pakistan.
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   Pakistani
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   Indus Valley school of Art and Architecture
+  </td>
+ </tr>
+</table>

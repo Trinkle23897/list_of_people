@@ -1,0 +1,285 @@
+<table class="infobox vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Alan Mycroft
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Programming_language" title="Programming language">
+       Programming languages
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Compiler" title="Compiler">
+       Compilation
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Static_program_analysis" title="Static program analysis">
+       Static Analysis
+      </a>
+      <sup class="reference" id="cite_ref-googlescholar_1-0">
+       <a href="#cite_note-googlescholar-1">
+        [1]
+       </a>
+      </sup>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/University_of_Cambridge" title="University of Cambridge">
+       University of Cambridge
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Computer_Laboratory,_University_of_Cambridge" title="Computer Laboratory, University of Cambridge">
+       Computer Laboratory
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Raspberry_Pi_Foundation" title="Raspberry Pi Foundation">
+       Raspberry Pi Foundation
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <span class="nowrap">
+    <a href="/wiki/Alma_mater" title="Alma mater">
+     Alma mater
+    </a>
+   </span>
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/University_of_Cambridge" title="University of Cambridge">
+       University of Cambridge
+      </a>
+      (BA, MA, ScD)
+     </li>
+     <li>
+      <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">
+       University of Edinburgh
+      </a>
+      (PhD)
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Thesis" title="Thesis">
+    Thesis
+   </a>
+  </th>
+  <td>
+   <a class="external text" href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.278868" rel="nofollow">
+    <i>
+     Abstract interpretation and optimising transformations for applicative programs
+    </i>
+   </a>
+   <span style="font-size:90%;">
+    (1982)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Rod_Burstall" title="Rod Burstall">
+       Rod Burstall
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Robin_Milner" title="Robin Milner">
+       Robin Milner
+      </a>
+      <sup class="reference" id="cite_ref-mycroftphd_2-0">
+       <a href="#cite_note-mycroftphd-2">
+        [2]
+       </a>
+      </sup>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      Gavin Bierman
+      <sup class="reference" id="cite_ref-biermanphd_3-0">
+       <a href="#cite_note-biermanphd-3">
+        [3]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Michael B. Gale
+     </li>
+     <li>
+      Andrew Kennedy
+      <sup class="reference" id="cite_ref-kennedyphd_4-0">
+       <a href="#cite_note-kennedyphd-4">
+        [4]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Alan Lawrence
+      <sup class="reference" id="cite_ref-lawrencephd_5-0">
+       <a href="#cite_note-lawrencephd-5">
+        [5]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Anton Lokhmotov
+      <sup class="reference" id="cite_ref-lokhmotovphd_6-0">
+       <a href="#cite_note-lokhmotovphd-6">
+        [6]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Dominic Orchard
+      <sup class="reference" id="cite_ref-orchardphd_7-0">
+       <a href="#cite_note-orchardphd-7">
+        [7]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Sriram Srinivasan
+      <sup class="reference" id="cite_ref-kilim_8-0">
+       <a href="#cite_note-kilim-8">
+        [8]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-mathgene_10-0">
+       <a href="#cite_note-mathgene-10">
+        [10]
+       </a>
+      </sup>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Norcroft_C_compiler" title="Norcroft C compiler">
+       Norcroft C compiler
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Raspberry_Pi_Foundation" title="Raspberry Pi Foundation">
+       Raspberry Pi Foundation
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Children
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      Christopher Mycroft
+     </li>
+     <li>
+      Richard Mycroft
+     </li>
+     <li>
+      Sarah Mycroft
+     </li>
+     <li>
+      William Mycroft
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Website
+   </b>
+   <br/>
+   <span class="url">
+    <a class="external text" href="http://www.cl.cam.ac.uk/users/am" rel="nofollow">
+     www
+     <wbr>
+     </wbr>
+     .cl
+     <wbr>
+     </wbr>
+     .cam
+     <wbr>
+     </wbr>
+     .ac
+     <wbr>
+     </wbr>
+     .uk
+     <wbr>
+     </wbr>
+     /users
+     <wbr>
+     </wbr>
+     /am
+    </a>
+   </span>
+  </td>
+ </tr>
+</table>

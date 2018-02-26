@@ -1,0 +1,25 @@
+<table class="infobox vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Alex Beckstead
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row" style="padding-top:0.225em;line-height:1.1em;padding-right:0.65em;">
+   Occupation
+  </th>
+  <td class="role" style="line-height:1.4em;">
+   Filmmaker
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" style="padding-top:0.225em;line-height:1.1em;padding-right:0.65em;">
+   Nationality
+  </th>
+  <td class="category" style="line-height:1.4em;">
+   United States
+  </td>
+ </tr>
+</table>

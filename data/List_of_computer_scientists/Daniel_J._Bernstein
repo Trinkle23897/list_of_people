@@ -1,0 +1,188 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Daniel J. Bernstein
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Dan_Bernstein_27C3.jpg">
+    <img alt="Dan Bernstein 27C3.jpg" data-file-height="4288" data-file-width="2856" height="330" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dan_Bernstein_27C3.jpg/220px-Dan_Bernstein_27C3.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dan_Bernstein_27C3.jpg/330px-Dan_Bernstein_27C3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dan_Bernstein_27C3.jpg/440px-Dan_Bernstein_27C3.jpg 2x" width="220"/>
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1971-10-29
+    </span>
+    )
+   </span>
+   October 29, 1971
+   <span class="noprint ForceAgeToShow">
+    (age 45)
+   </span>
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/East_Patchogue,_New_York" title="East Patchogue, New York">
+     East Patchogue, New York
+    </a>
+    <sup class="reference" id="cite_ref-cv_1-0">
+     <a href="#cite_note-cv-1">
+      [1]
+     </a>
+    </sup>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   <a href="/wiki/United_States" title="United States">
+    American
+   </a>
+   ,
+   <a href="/wiki/Germany" title="Germany">
+    German
+   </a>
+   <sup class="reference" id="cite_ref-cv_1-1">
+    <a href="#cite_note-cv-1">
+     [1]
+    </a>
+   </sup>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">
+    University of California, Berkeley
+   </a>
+   <br/>
+   <a href="/wiki/New_York_University" title="New York University">
+    New York University
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a href="/wiki/Qmail" title="Qmail">
+    qmail
+   </a>
+   ,
+   <a href="/wiki/Djbdns" title="Djbdns">
+    djbdns
+   </a>
+   ,
+   <a href="/wiki/Salsa20" title="Salsa20">
+    Salsa20
+   </a>
+   ,
+   <a class="mw-redirect" href="/wiki/ChaCha20" title="ChaCha20">
+    ChaCha20
+   </a>
+   ,
+   <a href="/wiki/Poly1305" title="Poly1305">
+    Poly1305
+   </a>
+   ,
+   <a href="/wiki/Curve25519" title="Curve25519">
+    Curve25519
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Website
+  </th>
+  <td>
+   <span class="url">
+    <a class="external text" href="http://cr.yp.to/djb.html" rel="nofollow">
+     cr
+     <wbr>
+     </wbr>
+     .yp
+     <wbr>
+     </wbr>
+     .to
+     <wbr>
+     </wbr>
+     /djb
+     <wbr>
+     </wbr>
+     .html
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <a href="/wiki/Mathematics" title="Mathematics">
+    Mathematics
+   </a>
+   ,
+   <a href="/wiki/Cryptography" title="Cryptography">
+    Cryptography
+   </a>
+   ,
+   <br/>
+   <a class="mw-redirect" href="/wiki/Computer_Security" title="Computer Security">
+    Computer Security
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <a href="/wiki/University_of_Illinois_at_Chicago" title="University of Illinois at Chicago">
+    University of Illinois at Chicago
+   </a>
+   ,
+   <a href="/wiki/Eindhoven_University_of_Technology" title="Eindhoven University of Technology">
+    Eindhoven University of Technology
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <a href="/wiki/Hendrik_Lenstra" title="Hendrik Lenstra">
+    Hendrik Lenstra
+   </a>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

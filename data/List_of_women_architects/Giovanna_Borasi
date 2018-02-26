@@ -1,0 +1,45 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Giovanna Borasi
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   1971
+   <br/>
+   <span class="birthplace">
+    Milan, Italy
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Occupation
+  </th>
+  <td class="role">
+   Architect
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Practice
+  </th>
+  <td>
+   Canadian Centre for Architecture
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

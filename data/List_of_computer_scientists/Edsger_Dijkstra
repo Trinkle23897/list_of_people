@@ -1,0 +1,642 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Edsger Wybe Dijkstra
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Edsger_Wybe_Dijkstra.jpg">
+    <img alt="Edsger Wybe Dijkstra.jpg" data-file-height="1600" data-file-width="1200" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Edsger_Wybe_Dijkstra.jpg/220px-Edsger_Wybe_Dijkstra.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Edsger_Wybe_Dijkstra.jpg/330px-Edsger_Wybe_Dijkstra.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Edsger_Wybe_Dijkstra.jpg/440px-Edsger_Wybe_Dijkstra.jpg 2x" width="220"/>
+   </a>
+   <div>
+    (2002)
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1930-05-11
+    </span>
+    )
+   </span>
+   11 May 1930
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/Rotterdam" title="Rotterdam">
+     Rotterdam
+    </a>
+    , Netherlands
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Died
+  </th>
+  <td>
+   6 August 2002
+   <span style="display:none">
+    (
+    <span class="dday deathdate">
+     2002-08-06
+    </span>
+    )
+   </span>
+   (aged 72)
+   <br/>
+   <span class="deathplace">
+    <a href="/wiki/Nuenen" title="Nuenen">
+     Nuenen
+    </a>
+    , Netherlands
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <a href="/wiki/Leiden_University" title="Leiden University">
+    Leiden University
+   </a>
+   <br/>
+   <small>
+    (B.S., M.S.)
+   </small>
+   <br/>
+   <a href="/wiki/University_of_Amsterdam" title="University of Amsterdam">
+    University of Amsterdam
+   </a>
+   <br/>
+   <small>
+    (Ph.D.)
+   </small>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Dijkstra%27s_algorithm" title="Dijkstra's algorithm">
+       Dijkstra's algorithm
+      </a>
+      (
+      <a class="mw-redirect" href="/wiki/Single-source_shortest_path_problem" title="Single-source shortest path problem">
+       single-source shortest path problem
+      </a>
+      )
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/DJP_algorithm" title="DJP algorithm">
+       DJP algorithm
+      </a>
+      (
+      <a class="mw-redirect" href="/wiki/Minimum_spanning_tree_problem" title="Minimum spanning tree problem">
+       minimum spanning tree problem
+      </a>
+      )
+     </li>
+     <li>
+      First
+      <a href="/wiki/Programming_language_implementation" title="Programming language implementation">
+       implementation
+      </a>
+      of
+      <i>
+       <a href="/wiki/ALGOL_60" title="ALGOL 60">
+        ALGOL 60
+       </a>
+      </i>
+      (
+      <i>
+       Dijkstra-Zonneveld ALGOL 60
+      </i>
+      compiler for the
+      <a href="/wiki/Electrologica_X1" title="Electrologica X1">
+       Electrologica X1
+      </a>
+      )
+     </li>
+     <li>
+      <a href="/wiki/Structured_analysis" title="Structured analysis">
+       Structured analysis
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Structured_programming" title="Structured programming">
+       Structured programming
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Semaphore_(programming)" title="Semaphore (programming)">
+       Semaphore
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Abstraction_layer" title="Abstraction layer">
+       Layered
+      </a>
+      approach to operating system design
+     </li>
+     <li>
+      <a href="/wiki/THE_multiprogramming_system" title="THE multiprogramming system">
+       THE multiprogramming system
+      </a>
+     </li>
+     <li>
+      Concept of
+      <a href="/wiki/Abstraction_layer" title="Abstraction layer">
+       levels of abstraction
+      </a>
+      <sup class="reference" id="cite_ref-1">
+       <a href="#cite_note-1">
+        [1]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-2">
+       <a href="#cite_note-2">
+        [2]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Concept of
+      <a href="/wiki/Abstraction_layer" title="Abstraction layer">
+       layered structure
+      </a>
+      in
+      <a href="/wiki/Software_architecture" title="Software architecture">
+       software architecture
+      </a>
+      (layered architecture)
+     </li>
+     <li>
+      Concept of
+      <a class="mw-redirect" href="/wiki/Cooperating_sequential_processes" title="Cooperating sequential processes">
+       cooperating sequential processes
+      </a>
+      <sup class="reference" id="cite_ref-3">
+       <a href="#cite_note-3">
+        [3]
+       </a>
+      </sup>
+     </li>
+     <li>
+      Concept of
+      <a href="/wiki/Software_product_line" title="Software product line">
+       program families
+      </a>
+      <sup class="reference" id="cite_ref-4">
+       <a href="#cite_note-4">
+        [4]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Multithreaded_programming" title="Multithreaded programming">
+       Multithreaded programming
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Concurrent_programming" title="Concurrent programming">
+       Concurrent programming
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Concurrent_algorithm" title="Concurrent algorithm">
+       Concurrent algorithms
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Distributed_computing" title="Distributed computing">
+       Principles of distributed computing
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Distributed_algorithms" title="Distributed algorithms">
+       Distributed algorithms
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Synchronization_primitive" title="Synchronization primitive">
+       Synchronization primitive
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Mutual_exclusion" title="Mutual exclusion">
+       Mutual exclusion
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Critical_section" title="Critical section">
+       Critical section
+      </a>
+     </li>
+     <li>
+      Generalization of
+      <a href="/wiki/Dekker%27s_algorithm" title="Dekker's algorithm">
+       Dekker's algorithm
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Tracing_garbage_collection#Tri-color_marking" title="Tracing garbage collection">
+       Tri-color marking algorithm
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Call_stack" title="Call stack">
+       Call stack
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Fault-tolerant_systems" title="Fault-tolerant systems">
+       Fault-tolerant systems
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Self-stabilization" title="Self-stabilization">
+       Self-stabilizing distributed systems
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Resource_starvation" title="Resource starvation">
+       Resource starvation
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Deadly_embrace" title="Deadly embrace">
+       Deadly embrace
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Deadlock_prevention_algorithms" title="Deadlock prevention algorithms">
+       Deadlock prevention algorithms
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Shunting-yard_algorithm" title="Shunting-yard algorithm">
+       Shunting-yard algorithm
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Banker%27s_algorithm" title="Banker's algorithm">
+       Banker's algorithm
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Dining_philosophers_problem" title="Dining philosophers problem">
+       Dining philosophers problem
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Sleeping_barber_problem" title="Sleeping barber problem">
+       Sleeping barber problem
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Producer%E2%80%93consumer_problem" title="Producer–consumer problem">
+       Producer–consumer problem
+      </a>
+      (
+      <a class="mw-redirect" href="/wiki/Bounded_buffer_problem" title="Bounded buffer problem">
+       bounded buffer problem
+      </a>
+      )
+     </li>
+     <li>
+      <a href="/wiki/Dutch_national_flag_problem" title="Dutch national flag problem">
+       Dutch national flag problem
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Predicate_transformer_semantics" title="Predicate transformer semantics">
+       Predicate transformer semantics
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Guarded_Command_Language" title="Guarded Command Language">
+       Guarded Command Language
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Weakest_precondition_calculus" title="Weakest precondition calculus">
+       Weakest precondition calculus
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Unbounded_nondeterminism" title="Unbounded nondeterminism">
+       Unbounded nondeterminism
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Dijkstra-Scholten_algorithm" title="Dijkstra-Scholten algorithm">
+       Dijkstra-Scholten algorithm
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Smoothsort" title="Smoothsort">
+       Smoothsort
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Separation_of_concerns" title="Separation of concerns">
+       Separation of concerns
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/Program_verification" title="Program verification">
+       Program verification
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Program_derivation" title="Program derivation">
+       Program derivation
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Software_crisis" title="Software crisis">
+       Software crisis
+      </a>
+      <sup class="reference" id="cite_ref-Haigh.2C_Thomas_2010_5-0">
+       <a href="#cite_note-Haigh.2C_Thomas_2010-5">
+        [5]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Software_architecture" title="Software architecture">
+       Software architecture
+      </a>
+      <sup class="reference" id="cite_ref-6">
+       <a href="#cite_note-6">
+        [6]
+       </a>
+      </sup>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Turing_Award" title="Turing Award">
+       Turing Award
+      </a>
+      <small>
+       (1972)
+      </small>
+     </li>
+     <li>
+      <a href="/wiki/ACM_Fellow" title="ACM Fellow">
+       ACM Fellow
+      </a>
+      <small>
+       (1994)
+      </small>
+     </li>
+     <li>
+      <a href="/wiki/Dijkstra_Prize" title="Dijkstra Prize">
+       Dijkstra Prize
+      </a>
+      <small>
+       (2002)
+      </small>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a class="mw-redirect" href="/wiki/Computing_science" title="Computing science">
+       Computing science
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">
+       Theoretical computer science
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Centrum_Wiskunde_%26_Informatica" title="Centrum Wiskunde &amp; Informatica">
+       Mathematisch Centrum
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Eindhoven_University_of_Technology" title="Eindhoven University of Technology">
+       Eindhoven University of Technology
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Burroughs_Corporation" title="Burroughs Corporation">
+       Burroughs Corporation
+      </a>
+     </li>
+     <li>
+      <a class="mw-redirect" href="/wiki/The_University_of_Texas_at_Austin" title="The University of Texas at Austin">
+       The University of Texas at Austin
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Thesis" title="Thesis">
+    Thesis
+   </a>
+  </th>
+  <td>
+   <i>
+    Communication with an Automatic Computer
+   </i>
+   <span style="font-size:90%;">
+    (1959)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <a href="/wiki/Adriaan_van_Wijngaarden" title="Adriaan van Wijngaarden">
+    Adriaan van Wijngaarden
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Nico_Habermann" title="Nico Habermann">
+       Nico Habermann
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Jan_L._A._van_de_Snepscheut" title="Jan L. A. van de Snepscheut">
+       Jan van de Snepscheut
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Influences
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Adriaan_van_Wijngaarden" title="Adriaan van Wijngaarden">
+       Adriaan van Wijngaarden
+      </a>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Influenced
+  </th>
+  <td>
+   <div class="plainlist">
+    <ul>
+     <li>
+      <a href="/wiki/Tony_Hoare" title="Tony Hoare">
+       Tony Hoare
+      </a>
+      <sup class="reference" id="cite_ref-7">
+       <a href="#cite_note-7">
+        [7]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">
+       Niklaus Wirth
+      </a>
+      <sup class="reference" id="cite_ref-8">
+       <a href="#cite_note-8">
+        [8]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-9">
+       <a href="#cite_note-9">
+        [9]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Per_Brinch_Hansen" title="Per Brinch Hansen">
+       Per Brinch Hansen
+      </a>
+      <sup class="reference" id="cite_ref-10">
+       <a href="#cite_note-10">
+        [10]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/Leslie_Lamport" title="Leslie Lamport">
+       Leslie Lamport
+      </a>
+      <sup class="reference" id="cite_ref-11">
+       <a href="#cite_note-11">
+        [11]
+       </a>
+      </sup>
+      <sup class="reference" id="cite_ref-Lamport_.282015.29_12-0">
+       <a href="#cite_note-Lamport_.282015.29-12">
+        [12]
+       </a>
+      </sup>
+     </li>
+     <li>
+      <a href="/wiki/David_Gries" title="David Gries">
+       David Gries
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/David_Parnas" title="David Parnas">
+       David Parnas
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Shlomi_Dolev" title="Shlomi Dolev">
+       Shlomi Dolev
+      </a>
+     </li>
+     <li>
+      <a href="/wiki/Alexander_Stepanov" title="Alexander Stepanov">
+       Alexander Stepanov
+      </a>
+      <sup class="reference" id="cite_ref-13">
+       <a href="#cite_note-13">
+        [13]
+       </a>
+      </sup>
+     </li>
+    </ul>
+   </div>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

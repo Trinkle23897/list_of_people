@@ -1,0 +1,111 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Tom Lane
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1955-09-18
+    </span>
+    )
+   </span>
+   September 18, 1955
+   <span class="noprint ForceAgeToShow">
+    (age 61)
+   </span>
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/Madrid" title="Madrid">
+     Madrid
+    </a>
+    ,
+    <a href="/wiki/Spain" title="Spain">
+     Spain
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Residence
+  </th>
+  <td class="label">
+   <a href="/wiki/United_States" title="United States">
+    U.S.
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   <a class="image" href="/wiki/File:Flag_of_the_United_States.svg">
+    <img alt="Flag of the United States.svg" data-file-height="650" data-file-width="1235" height="11" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png 2x" width="20"/>
+   </a>
+   <a href="/wiki/United_States" title="United States">
+    US
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">
+    Carnegie Mellon University
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a class="mw-redirect" href="/wiki/Independent_JPEG_Group" title="Independent JPEG Group">
+    Independent JPEG Group
+   </a>
+   ,
+   <br/>
+   <a href="/wiki/PostgreSQL" title="PostgreSQL">
+    PostgreSQL
+   </a>
+   ,
+   <a href="/wiki/Portable_Network_Graphics" title="Portable Network Graphics">
+    Portable Network Graphics
+   </a>
+   (PNG)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Fields
+  </th>
+  <td class="category">
+   <a class="mw-redirect" href="/wiki/Computer_Science" title="Computer Science">
+    Computer Science
+   </a>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

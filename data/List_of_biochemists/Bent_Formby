@@ -1,0 +1,40 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Bent Formby
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span class="birthplace">
+    Copenhagen
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Education
+  </th>
+  <td>
+   Ph.D. University of Copenhagen
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Employer
+  </th>
+  <td class="org">
+   Sansum Medical Research Institute, Rasmus Institute for Medical Research
+   <sup class="reference" id="cite_ref-1">
+    <a href="#cite_note-1">
+     [1]
+    </a>
+   </sup>
+  </td>
+ </tr>
+</table>

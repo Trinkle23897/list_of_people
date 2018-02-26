@@ -1,0 +1,46 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Bryan Cantrill
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Bryan_Cantrill_1.jpg">
+    <img alt="Bryan Cantrill 1.jpg" data-file-height="320" data-file-width="240" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bryan_Cantrill_1.jpg/220px-Bryan_Cantrill_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/f/f6/Bryan_Cantrill_1.jpg 1.5x" width="220"/>
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   <a href="/wiki/United_States" title="United States">
+    American
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Occupation
+  </th>
+  <td class="role">
+   <a class="mw-redirect" href="/wiki/Software_Engineer" title="Software Engineer">
+    Software Engineer
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a class="mw-redirect" href="/wiki/Dtrace" title="Dtrace">
+    Dtrace
+   </a>
+  </td>
+ </tr>
+</table>

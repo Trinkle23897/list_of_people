@@ -1,0 +1,54 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Alfredo Rizzo
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1902-01-02
+    </span>
+    )
+   </span>
+   2 January 1902
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/Nice" title="Nice">
+     Nice
+    </a>
+    , France
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Died
+  </th>
+  <td>
+   6 September 1991
+   <span style="display:none">
+    (
+    <span class="dday deathdate">
+     1991-09-06
+    </span>
+    )
+   </span>
+   (aged 89)
+   <br/>
+   <span class="deathplace">
+    <a href="/wiki/Rome" title="Rome">
+     Rome
+    </a>
+    , Italy
+   </span>
+  </td>
+ </tr>
+</table>

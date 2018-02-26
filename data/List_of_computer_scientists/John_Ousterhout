@@ -1,0 +1,90 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    John Ousterhout
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <a class="image" href="/wiki/File:Ouster_face.png">
+    <img alt="Ouster face.png" data-file-height="144" data-file-width="108" height="144" src="//upload.wikimedia.org/wikipedia/commons/5/59/Ouster_face.png" width="108"/>
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1954-10-15
+    </span>
+    )
+   </span>
+   October 15, 1954
+   <span class="noprint ForceAgeToShow">
+    (age 62)
+   </span>
+   <br/>
+   <span class="birthplace">
+    <a href="/wiki/Solano_County,_California" title="Solano County, California">
+     Solano County, California
+    </a>
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Education
+  </th>
+  <td>
+   <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">
+    Bachelor's degree
+   </a>
+   in physics,
+   <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">
+    Ph.D
+   </a>
+   in computer science
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a href="/wiki/Tcl" title="Tcl">
+    Tcl
+   </a>
+   ,
+   <a class="mw-redirect" href="/wiki/Tk_(framework)" title="Tk (framework)">
+    Tk
+   </a>
+   ,
+   <a href="/wiki/Magic_(software)" title="Magic (software)">
+    Magic
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   <a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">
+    Grace Murray Hopper Award
+   </a>
+   <small>
+    (1987)
+   </small>
+   <br/>
+   <a href="/wiki/ACM_Software_System_Award" title="ACM Software System Award">
+    ACM Software System Award
+   </a>
+  </td>
+ </tr>
+</table>

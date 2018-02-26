@@ -1,0 +1,47 @@
+<table class="infobox vcard" style="width:22em">
+ <tr>
+  <th class="fn org" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: LightBlue">
+   The Real University
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Founded
+  </th>
+  <td>
+   2015
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Founder
+  </th>
+  <td class="agent">
+   2 Chainz (CEO)
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Status
+  </th>
+  <td>
+   Active
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Country of origin
+  </th>
+  <td>
+   United States
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Location
+  </th>
+  <td class="label">
+   Atlanta, Georgia
+  </td>
+ </tr>
+</table>

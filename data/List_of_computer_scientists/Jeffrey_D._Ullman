@@ -1,0 +1,226 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Jeffrey D. Ullman
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1942-11-22
+    </span>
+    )
+   </span>
+   November 22, 1942
+   <span class="noprint ForceAgeToShow">
+    (age 74)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Nationality
+  </th>
+  <td class="category">
+   American
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Citizenship
+  </th>
+  <td class="category">
+   American
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Alma mater
+  </th>
+  <td>
+   <a href="/wiki/Columbia_University" title="Columbia University">
+    Columbia University
+   </a>
+   <br/>
+   <a href="/wiki/Princeton_University" title="Princeton University">
+    Princeton University
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Known for
+  </th>
+  <td>
+   <a href="/wiki/Database_theory" title="Database theory">
+    database theory
+   </a>
+   ,
+   <a class="mw-redirect" href="/wiki/Database_systems" title="Database systems">
+    database systems
+   </a>
+   ,
+   <a class="mw-redirect" href="/wiki/Formal_language_theory" title="Formal language theory">
+    formal language theory
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Awards
+  </th>
+  <td>
+   <span class="nowrap">
+    Fellow of the
+    <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">
+     Association for Computing Machinery
+    </a>
+    (1994)
+   </span>
+   <br/>
+   ACM
+   <a class="new" href="/w/index.php?title=SIGMOD_Contributions_Award&amp;action=edit&amp;redlink=1" title="SIGMOD Contributions Award (page does not exist)">
+    SIGMOD Contributions Award
+   </a>
+   (1996)
+   <br/>
+   ACM SIGMOD Best Paper Award (1996)
+   <br/>
+   Karl V. Karlstrom outstanding educator award (1998)
+   <br/>
+   <a href="/wiki/Knuth_Prize" title="Knuth Prize">
+    Knuth Prize
+   </a>
+   (2000)
+   <br/>
+   ACM
+   <a href="/wiki/SIGMOD_Edgar_F._Codd_Innovations_Award" title="SIGMOD Edgar F. Codd Innovations Award">
+    SIGMOD Edgar F. Codd Innovations Award
+   </a>
+   (2006)
+   <br/>
+   ACM
+   <a class="new" href="/w/index.php?title=SIGMOD_Test_of_Time_Award&amp;action=edit&amp;redlink=1" title="SIGMOD Test of Time Award (page does not exist)">
+    SIGMOD Test of Time Award
+   </a>
+   (2006)
+   <br/>
+   <a href="/wiki/IEEE_John_von_Neumann_Medal" title="IEEE John von Neumann Medal">
+    IEEE John von Neumann Medal
+   </a>
+   (2010)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center">
+   <b>
+    Scientific career
+   </b>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Institutions
+  </th>
+  <td>
+   <a href="/wiki/Stanford_University" title="Stanford University">
+    Stanford University
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Thesis" title="Thesis">
+    Thesis
+   </a>
+  </th>
+  <td>
+   <i>
+    Synchronization Error Correcting Codes
+    <sup class="reference" id="cite_ref-1">
+     <a href="#cite_note-1">
+      [1]
+     </a>
+    </sup>
+   </i>
+   <span style="font-size:90%;">
+    (1966)
+   </span>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   <a href="/wiki/Doctoral_advisor" title="Doctoral advisor">
+    Doctoral advisor
+   </a>
+  </th>
+  <td>
+   <a class="new" href="/w/index.php?title=Arthur_Bernstein&amp;action=edit&amp;redlink=1" title="Arthur Bernstein (page does not exist)">
+    Arthur Bernstein
+   </a>
+   ,
+   <a class="new" href="/w/index.php?title=Archie_McKellar_(scientist)&amp;action=edit&amp;redlink=1" title="Archie McKellar (scientist) (page does not exist)">
+    Archie McKellar
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <th scope="row">
+   Doctoral students
+  </th>
+  <td>
+   Himanshu Gupta
+   <br/>
+   <a href="/wiki/Surajit_Chaudhuri" title="Surajit Chaudhuri">
+    Surajit Chaudhuri
+   </a>
+   <br/>
+   <a href="/wiki/Kevin_Karplus" title="Kevin Karplus">
+    Kevin Karplus
+   </a>
+   <br/>
+   <a href="/wiki/David_Maier" title="David Maier">
+    David Maier
+   </a>
+   <br/>
+   <a href="/wiki/Harry_Mairson" title="Harry Mairson">
+    Harry Mairson
+   </a>
+   <br/>
+   <a href="/wiki/Alberto_O._Mendelzon" title="Alberto O. Mendelzon">
+    Alberto O. Mendelzon
+   </a>
+   <br/>
+   <a class="mw-redirect" href="/wiki/Jeffrey_F._Naughton" title="Jeffrey F. Naughton">
+    Jeffrey F. Naughton
+   </a>
+   <br/>
+   <a href="/wiki/Anand_Rajaraman" title="Anand Rajaraman">
+    Anand Rajaraman
+   </a>
+   <br/>
+   <a href="/wiki/Yehoshua_Sagiv" title="Yehoshua Sagiv">
+    Yehoshua Sagiv
+   </a>
+   <br/>
+   <a href="/wiki/Mihalis_Yannakakis" title="Mihalis Yannakakis">
+    Mihalis Yannakakis
+   </a>
+   <br/>
+   <a class="new" href="/w/index.php?title=Alan_J._Demers&amp;action=edit&amp;redlink=1" title="Alan J. Demers (page does not exist)">
+    Alan J. Demers
+   </a>
+  </td>
+ </tr>
+ <tr style="display:none">
+  <td colspan="2">
+  </td>
+ </tr>
+</table>

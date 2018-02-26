@@ -1,0 +1,51 @@
+<table class="infobox biography vcard" style="width:22em;text-align: left; background: #fff;">
+ <tr>
+  <th class="fn" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #99c2ff;">
+   Tom Bunk
+  </th>
+ </tr>
+ <tr>
+  <th scope="row" style="width: 40%;">
+   Nationality
+  </th>
+  <td class="category">
+   American
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" style="width: 40%;">
+   <span style="white-space:nowrap;">
+    Area(s)
+   </span>
+  </th>
+  <td class="role">
+   Cartoonist
+  </td>
+ </tr>
+ <tr>
+  <th scope="row" style="width: 40%;">
+   <div style="padding:0.1em 0;line-height:1.2em;">
+    Notable works
+   </div>
+  </th>
+  <td>
+   <i>
+    <a href="/wiki/Mad_(magazine)" title="Mad (magazine)">
+     Mad
+    </a>
+   </i>
+   magazine
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" style="text-align:center;border-top:#aaa 1px solid">
+   <span class="official-website">
+    <span class="url">
+     <a class="external text" href="http://www.spalato.net/" rel="nofollow">
+      Official website
+     </a>
+    </span>
+   </span>
+  </td>
+ </tr>
+</table>

@@ -1,0 +1,31 @@
+<table class="infobox biography vcard" style="width:22em">
+ <tr>
+  <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">
+   <span class="fn">
+    Lilian Johansson
+   </span>
+  </th>
+ </tr>
+ <tr>
+  <th scope="row">
+   Born
+  </th>
+  <td>
+   <span style="display:none">
+    (
+    <span class="bday">
+     1948-03-10
+    </span>
+    )
+   </span>
+   10 March 1948
+   <span class="noprint ForceAgeToShow">
+    (age 69)
+   </span>
+   <br/>
+   <span class="birthplace">
+    Stockholm, Sweden
+   </span>
+  </td>
+ </tr>
+</table>
